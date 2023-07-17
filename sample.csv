@@ -1,0 +1,128 @@
+Sentence,FirstOrderIntent,SecondOrderIntent,Entities
+Create a new contact entry for a potential buyer interested in Property XYZ.,CreateObject,Contact,"entry, buyer, property XYZ"
+Create a new contact entry for a property manager responsible for Property ABC.,CreateObject,Contact,"entry, manager, property ABC"
+Create a new contact entry for a real estate agent representing Property XYZ.,CreateObject,Contact,"entry, real estate agent, property XYZ"
+Create a new contact entry for Cityview towers.,CreateObject,Contact,"entry, cityview, towers"
+Create a new contact entry for Property ABC.,CreateObject,Contact,"entry, property ABC"
+Create a new customer entry for Property ABC.,CreateObject,Customer,"entry, property ABC"
+Create a new customer entry for property XYZ.,CreateObject,Customer,"entry, property XYZ"
+Create a new journal entry for property maintenance expenses in Building A.,CreateObject,Entry,"maintenance expense, building A"
+Create a new journal entry for property management fees incurred in Building A.,CreateObject,Entry,"management fee, building A"
+Create a new journal entry for Cityview towers.,CreateObject,Journal,"entry, cityview, towers"
+Create a new journal entry for rent collected from Tenant XYZ.,CreateObject,Journal,"entry, rent, tenant XYZ"
+Create a new payable entry for property ABC.,CreateObject,Payable,"entry, property ABC"
+Create a new payable entry for property management fees for Property ABC.,CreateObject,Payable,"entry, management fee, property ABC"
+Create a new payable entry for property taxes for Property XYZ.,CreateObject,Payable,"entry, taxes, property XYZ"
+Create a new payable entry for Property XYZ.,CreateObject,Payable,"entry, property XYZ"
+Create a new listing for a beachfront property in Malibu.,CreateObject,Property,"beachfront, Malibu"
+Create a new property record for the commercial building on Main Street.,CreateObject,Property,"commercial building, main street"
+Create a new prospect profile for a potential buyer interested in commercial properties.,CreateObject,Prospect,"profile, buyer, commercial properties"
+Create a new prospect profile for a potential buyer interested in residential properties.,CreateObject,Prospect,"profile, buyer, residental properties"
+Create a new prospect profile for a potential buyer interested in residential properties.,CreateObject,Prospect,"profile, buyer, residental properties"
+Create a new receivable entry for rental income from Property XYZ.,CreateObject,Receivable,"entry, rental income, property XYZ"
+Create a new tenant entry for property ABC.,CreateObject,Tenant,"entry, property ABC"
+Create a new tenant entry for property XYZ.,CreateObject,Tenant,"entry, property XYZ"
+Create a new tenant entry for Unit 101 in Avella Village.,CreateObject,Tenant,"entry, unit 101, Avella village"
+Create a new tenant profile for a potential renter interested in properties within the downtown area.,CreateObject,Tenant,"profile, renter, properties, downtown area"
+Create a new tenant profile for the vacant unit in Property ABC.,CreateObject,Tenant,"profile, vacant unit, property ABC"
+List all bank reconciliations for property ABC.,List,Bank reconciliation,property ABC
+List all bank reconciliations for Property XYZ.,List,Bank reconciliation,property XYZ
+List all customer contacts for properties managed by ABC Property Management.,List,Customer,"contacts, properties, ABC property management"
+List all customer inquiries for commercial properties in the last month.,List,Customer,"inquires, commercial properties, last month"
+List all customer inquiries for properties in the last week.,List,Customer,"inquires, properties, last week"
+List all customers in New York City.,List,Customer,New York city
+List all customers who have purchased properties in the last six months.,List,Customer,"purchase, last six months"
+List all journal entries associated with property insurance expenses for City Heights Apartments.,List,Entry,"insurance expenses, city heights apartments"
+List all journal entries associated with property taxes for Cityview Towers.,List,Entry,"property taxes, cityview towers"
+List all journal entries for Property ABC in the last quarter.,List,Journal,"entries, property ABC, last quarter"
+List all journal entries for property ABC.,List,Journal,"entries, property ABC"
+List all journal entries for Property XYZ.,List,Journal,"entries, property XYZ"
+List all journal entries related to property expenses for tax reporting purposes.,List,Journal,"entries, property expenses, tax reporting purposes"
+List all maintenance activities for Cityview towers.,List,Maintenance,"activities, cityview towers"
+List all maintenance requests received for Property ABC in the past month.,List,Maintenance,"request, property ABC, past month"
+List all owner properties in New York City.,List,Owner,"properties, New York city"
+List all available properties for lease in the suburban area.,List,Property,"lease, suburban area"
+List all available properties with ocean views in the beachfront area.,List,Property,"ocean views, beachfront area"
+List all properties owned by Jane Doe.,List,Property,Jane Doe
+List all properties owned by John Smith.,List,Property,John Smith
+List all residential properties located in the downtown area for sale.,List,Property,downtown area for sale
+List all potential buyers interested in luxury properties.,List,Prospect,"buyer, luxury properties"
+List all prospects who have requested property viewings in the last week.,List,Prospect,"request, last week"
+List all prospects who have submitted inquiries for property financing options.,List,Prospect,"inquiries, financing options"
+List all receivables for property ABC.,List,Receivable,property ABC
+List all tenants in Building A of City Heights Apartments.,List,Tenant,"building A, city heights apartments"
+List all tenants residing in Cityview Towers.,List,Tenant,"residing, cityview towers"
+What are the available units in Avella Village?,List,Unit,avella village
+Run a bank account report for property ABC as of today.,Report,Bank account,"property ABC, today"
+Run a bank account report for Property XYZ as of today.,Report,Bank account,"property XYZ, today"
+Run a bank reconciliation report for City Heights Apartments as of today.,Report,Bank reconciliation,"city heights apartments, today"
+Run a bank reconciliation report for Cityview towers as of today.,Report,Bank reconciliation,"cityview towers, today"
+Run a monthly bank reconciliation report for all properties to ensure accurate financial records.,Report,Bank reconciliation,"monthly, financial records"
+Run a report on all journal entries for Property XYZ in the current fiscal year.,Report,Entry,"property XYZ, current fiscal year"
+Run a report on all journal entries for Property XYZ in the last quarter.,Report,Entry,"property XYZ, last quarter"
+Run a journal entry report for Cityview towers as of today.,Report,Journal,"cityview towers, today"
+Run a journal entry report for property ABC as of today.,Report,Journal,"property ABC, today"
+Run a report on all journal entries related to property renovations for cost analysis.,Report,Journal,"property renovation, cost analysis"
+Run a maintenance report for Property XYZ as of today.,Report,Maintenance,"property XYZ, today"
+Generate a payable report for Cityview towers as of today.,Report,Payable,"cityview towers, today"
+Run a report on all prospects in the database for targeted marketing campaigns.,Report,Prospect,marketing campaigns
+Run a report on all prospects in the sales pipeline for the current month.,Report,Prospect,"sales pipeline, current month"
+Run a receivable report for property ABC as of today.,Report,Receivable,"property ABC, today"
+Run a receivable report for Property XYZ as of today.,Report,Receivable,"property XYZ, today"
+Review the contact details for the customer of Cityview towers.,ReviewObject,Customer,"contact, cityview towers"
+Review the contact details for the customer of property XYZ.,ReviewObject,Customer,"contact, property XYZ"
+Review the customer contact details for Cityview Towers.,ReviewObject,Customer,"contact, cityview towers"
+Review the customer contact details for Property XYZ.,ReviewObject,Customer,"contact, property XYZ"
+Review the details of the recent journal entry for rent collection in Property ABC.,ReviewObject,Entry,"rent collection, property ABC"
+Review the details of the recent journal entry for rental income in Property ABC.,ReviewObject,Entry,"rental income, property ABC"
+Review the maintenance log for Property ABC to assess the repair history.,ReviewObject,Maintenance,"property ABC, assess, repair history"
+Review the contact details and ownership documents for the property owner of XYZ Apartments.,ReviewObject,Owner,"contact, document, property owner, XYZ apartments"
+Review the contact details for the owner of property ABC.,ReviewObject,Owner,"contact, property ABC"
+Review the contact details for the owner of property XYZ.,ReviewObject,Owner,"contact, property XYZ"
+Review the owner contact details for Property ABC.,ReviewObject,Owner,"contact, property ABC"
+Review the owner contact details for Property XYZ.,ReviewObject,Owner,"contact, property XYZ"
+Review the contact details and preferences of a potential prospect for Property ABC.,ReviewObject,Prospect,"contact, preferences, property ABC"
+What is Michael Smith's current rent?,ReviewObject,Tenant,"michael smith, current rent"
+Review the contact details for the vendor of Cityview towers.,ReviewObject,Vendor,"contact, cityview towers"
+Review the contact details for the vendor of property ABC.,ReviewObject,Vendor,"contact, property ABC"
+Review the contact details for the vendor of property XYZ.,ReviewObject,Vendor,"contact, property XYZ"
+Review the contract and performance history of the landscaping vendor for Property ABC.,ReviewObject,Vendor,"contract, performance, history, landscaping, property ABC"
+Review the vendor agreement and performance of the HVAC contractor for Property XYZ.,ReviewObject,Vendor,"agreement, performance, HVAC contractor, property XYZ"
+Review the vendor agreement with the landscaping service provider for Cityview Towers.,ReviewObject,Vendor,"agreement, landscaping service provider, cityview towers"
+Review the vendor contact details for Property ABC.,ReviewObject,Vendor,"contact, property ABC"
+Review the vendor contact details for Property XYZ.,ReviewObject,Vendor,"contact, property XYZ"
+Review the vendor contract and performance for the maintenance services of Property ABC.,ReviewObject,Vendor,"contract, performance, maintenance service, property ABC"
+Review the vendor contract and performance of the security services provider for Property XYZ.,ReviewObject,Vendor,"contract, performance, security services, property XYZ"
+Initiate a bank account workflow for Property XYZ.,Workflow,Bank account,property XYZ
+Initiate a workflow to open a new bank account for Property Management LLC.,Workflow,Bank account,property management LLC
+Start a bank account workflow for Cityview towers.,Workflow,Bank account,cityview towers
+Initiate a contact workflow for Property ABC.,Workflow,Contact,property ABC
+Initiate a contact workflow for Property XYZ.,Workflow,Contact,property XYZ
+Start a contact workflow for property ABC.,Workflow,Contact,property ABC
+Start a contact workflow for property XYZ.,Workflow,Contact,property XYZ
+Initiate a workflow for processing journal entries related to property renovations.,Workflow,Entry,property renovation
+Initiate a workflow for processing journal entries related to property repairs and maintenance.,Workflow,Entry,"property repairs, maintenance"
+Initiate a journal entry workflow for Property ABC.,Workflow,Journal,property ABC
+Initiate a journal entry workflow for Property XYZ.,Workflow,Journal,property XYZ
+Start a journal entry workflow for property ABC.,Workflow,Journal,property ABC
+Start a journal entry workflow for property XYZ.,Workflow,Journal,property XYZ
+Initiate a maintenance workflow for repairing the elevator in Building A.,Workflow,Maintenance,"repairing, elevator, building A"
+Initiate a workflow for property inspections in Cityview Towers.,Workflow,Maintenance,"property inspection, cityview towers"
+Initiate a workflow for property inspections to identify and address maintenance issues.,Workflow,Maintenance,"property inspection, identify, address"
+Initiate a workflow for property maintenance to ensure regular upkeep and repairs.,Workflow,Maintenance,"property, upkeep, repairs"
+Initiate a workflow for property renovations and improvements in Property ABC.,Workflow,Maintenance,"property renovations, property ABC"
+Initiate a workflow to address a maintenance request for a leaking roof in Property XYZ.,Workflow,Maintenance,"leaking roof, property XYZ"
+Leaking toilet unit 101 in Boardwalk by Windsor.,Workflow,Maintenance,"leaking toilet, unit 101, boardwalk, windsor"
+Initiate a payable workflow for processing utility bills for City Heights Apartments.,Workflow,Payable,"utility bill, city heights apartments"
+Initiate a payable workflow for Property XYZ.,Workflow,Payable,property xyz
+Initiate a workflow for payment processing of property management fees for all managed properties.,Workflow,Payable,property management fee
+Initiate a workflow to process payments for property taxes on all owned properties.,Workflow,Payable,property taxes
+Start a payable workflow for Cityview towers.,Workflow,Payable,cityview towers
+Start a payable workflow for property XYZ.,Workflow,Payable,property xyz
+Initiate a workflow for property valuation of commercial buildings in downtown.,Workflow,Property,"commercial building, downtown"
+Initiate a workflow to follow up with prospects who have expressed interest in Property XYZ.,Workflow,Prospect,"interest, property xyz"
+Initiate a workflow to nurture prospects who have shown interest in Property XYZ.,Workflow,Prospect,"interest, property xyz"
+Initiate a unit workflow for Property ABC.,Workflow,Unit,property abc
+Initiate a unit workflow for Property XYZ.,Workflow,Unit,property xyz
+Start a unit workflow for property ABC.,Workflow,Unit,property abc
+Start a unit workflow for property XYZ.,Workflow,Unit,property xyz
